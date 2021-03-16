@@ -48,13 +48,13 @@
 4. Web разработка (Python: Flask) – высокий уровень понимания (написание REST API)  
 5. HTML, CSS, JS, PHP – свободное владение / Есть опыт работы на фрилансе  
 6. Java – среднее понимания  
-7. Android SDK – среднее понимание  
+7. Android SDK – среднее понимание (на 7 из 10)  
 8. Python – продвинутый уровень  
 9. С++ – среднее понимание (мало опыта)  
 
 #### Софт  
 1. C# – работаю в MS Visual Studio / Rider  
-2. Java – Intellij Idea  
+2. Java – Intellij Idea, Android Studio
 3. Git – свободное владение  
 
 #### Навыки  
